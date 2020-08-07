@@ -1,2 +1,2 @@
-# Artist-page
+# Music-page
 This is a music artist page
