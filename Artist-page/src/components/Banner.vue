@@ -1,12 +1,12 @@
 <template>
   <section class="section-class">
-    <!-- <div id="section-banner">
+    <div id="section-banner">
       <div class="spotify">
          <h1>Love You Baby </h1>
         <p>Available now on Itunes, Spotify </p>
        <button type="submit" class="btn-message">Send Message</button>
       </div>
-</div> -->
+</div>
   </section>
 </template>
 <script>
